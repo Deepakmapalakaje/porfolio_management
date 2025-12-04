@@ -39,7 +39,7 @@ DATABASE_FILE = os.path.join("database", "portfolio_analysis.db")
 STOP_LOSS_THRESHOLD = 0.15  # 15% stop-loss (exit when drawdown exceeds this)
 
 # --- API Keys ---
-GEMINI_API_KEY = "AIzaSyDSe0VO0usxHXpRE4Jy3CKIz0RHXqrYTes"  # Get from: https://aistudio.google.com/app/apikey
+GEMINI_API_KEY = ""  # Get from: https://aistudio.google.com/app/apikey
 
 
 # --- Portfolio Selection ---

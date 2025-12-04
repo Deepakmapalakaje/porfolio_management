@@ -44,7 +44,7 @@ INITIAL_CAPITAL = 100000.0
 BENCHMARK_INSTRUMENT_KEY = "NSE_INDEX|Nifty 50"
 
 # --- API Keys ---
-GEMINI_API_KEY = "AIzaSyDSe0VO0usxHXpRE4Jy3CKIz0RHXqrYTes"
+GEMINI_API_KEY = ""
 
 # --- Search Parameters ---
 MAX_PORTFOLIOS_TO_FIND = 10      # Stop when we find this many good portfolios
