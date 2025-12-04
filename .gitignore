@@ -23,19 +23,17 @@ MANIFEST
 
 # Virtual Env
 venv/
+.venv/
 env/
 ENV/
 .env
-
-# Database
-*.db
-*.sqlite3
-database/*.db
 
 # IDE
 .vscode/
 .idea/
 
-# Project specific
+# Large files (regenerate with create_rag_data.py)
 chroma_db/
 rag_knowledge_base.json
+
+# Note: database/ is INCLUDED in the repo
